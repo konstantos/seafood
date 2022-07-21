@@ -1,1 +1,1 @@
-# seafood
+# learning project "Seafood"
